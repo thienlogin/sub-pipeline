@@ -11,8 +11,8 @@ Tool dịch phụ đề SRT hàng loạt cho phim bộ, drama dài tập bằng 
 - Hệ điều hành: Windows, macOS hoặc Linux
 ### 2. Cài đặt thư viện
 ```bash
-git clone https://github.com/<your-username>/llm-subtitle-pipeline.git
-cd llm-subtitle-pipeline
+git clone https://github.com/thienlogin/sub-pipeline.git
+cd sub-pipeline
 # Khởi tạo môi trường ảo (khuyên dùng)
 python -m venv venv
 # Windows:
@@ -23,3 +23,4 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 pip install PyQt5 pysrt requests pyqtspinner
+
