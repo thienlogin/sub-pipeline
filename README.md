@@ -1,6 +1,6 @@
 # Subtitle Translation Pipeline
 
-Tool dịch phụ đề SRT hàng loạt cho phim bộ, drama dài tập bằng AI (Gemini, GPT, DeepSeek...), có giao diện đồ họa (PyQt5).
+Tool dịch phụ đề SRT hàng loạt cho phim bộ, drama dài tập bằng API Gemini, có giao diện (PyQt5).
 
 ---
 
