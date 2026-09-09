@@ -2,8 +2,6 @@
 
 Tool dịch phụ đề SRT hàng loạt cho phim bộ, drama dài tập bằng AI (Gemini, GPT, DeepSeek...), có giao diện đồ họa (PyQt5).
 
-Điểm ăn tiền nhất: **Tự động quét cả bộ phim để lập bảng nhân vật & quan hệ xưng hô trước khi dịch**, giúp các tập không bị loạn ngôi xưng (tập trước anh-em, tập sau tôi-cô).
-
 ---
 
 ## 📦 Cài đặt
